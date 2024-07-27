@@ -24,7 +24,9 @@ I made a YouTube video detailing the [X post where USDoD](https://x.com/Equation
 
 Here is a video demonstration of the tool's usage on my YouTube channel:
 
-[![BreachForum DB_Downloader Usage]([https://img.youtube.com/vi/examplevideo/0.jpg)](https://www.youtube.com/watch?v=examplevideo](https://youtu.be/orhbPAIGt9A))
+[![BreachForum DB_Downloader Usage](https://i.ibb.co/Yk87Zqn/image.png)](https://www.youtube.com/watch?v=orhbPAIGt9A)
+
+
 
 ## 📋 Table of Contents
 
