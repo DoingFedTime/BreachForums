@@ -20,6 +20,11 @@ I made a YouTube video detailing the [X post where USDoD](https://x.com/Equation
 - You agree to do so at your own risk using this tool. I am not responsible for any legal consequences that may arise from its use. You also agree by downloading this to not hold me liable for anything - at all, ever. 
 - In all likelihood, I will not be updating this tool because I will be busy editing videos.
 
+### YouTube Video
+
+Here is a video demonstration of the tool's usage on my YouTube channel:
+
+[![BreachForum DB_Downloader Usage]([https://img.youtube.com/vi/examplevideo/0.jpg)](https://www.youtube.com/watch?v=examplevideo](https://youtu.be/orhbPAIGt9A))
 
 ## 📋 Table of Contents
 
@@ -132,12 +137,6 @@ This tool was developed by **Sam Bent** (aka **DoingFedTime**).
 - **Personal Telegram**: [@impacket](https://t.me/impacket)
 - **Telegram Group**: [SparrowCorp](https://t.me/SparrowCorp)
 - **CDN**: [USDoD's CDN](https://usdod.io)
-
-### YouTube Video
-
-Here is a video demonstration of the tool's usage on my YouTube channel:
-
-[![BreachForum DB_Downloader Usage](https://img.youtube.com/vi/examplevideo/0.jpg)](https://www.youtube.com/watch?v=examplevideo)
 
 ## 📞 Contact
 
