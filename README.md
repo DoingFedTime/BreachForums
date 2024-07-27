@@ -1,3 +1,6 @@
+#CDN Down
+USDoD has apparently taken down or disabled his CDN, so the tool no longer works, and as a result, this tool is now archived. 
+
 # 📥 BreachForum DB_Downloader
 
 ## Introduction
